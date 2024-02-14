@@ -32,10 +32,10 @@ public class LocalZoneDateTimeDemo {
 		
 //		String ourDate = "2020-12-04 07:30";
 //		DateTimeFormatter tr = DateTimeFormatter.ofPattern("yyyy-mm-dd HH:MM");
+////		
+//		LocalDateTime t1 = LocalDateTime.parse(ourDate,tr);
+//		System.out.println(t1);
 //		
-		LocalDateTime t1 = LocalDateTime.parse(ourDate,tr);
-		System.out.println(t1);
-		
 		
 	}
 
