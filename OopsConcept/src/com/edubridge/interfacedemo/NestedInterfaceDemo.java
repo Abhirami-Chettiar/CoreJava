@@ -1,5 +1,5 @@
 package com.edubridge.interfacedemo;
-import com.edubridge.interfacedemo.Books.StoryBooks;;
+import com.edubridge.interfacedemo.Books.StoryBooks;
 public class NestedInterfaceDemo implements Books,StoryBooks{
 	@Override
 	public void ShowBooks() {
